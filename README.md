@@ -90,5 +90,5 @@ This project is an online marketplace built using **React** and **Redux** for th
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-- **My Name** - himakar1801@gmail.com
-- **GitHub** - HimakarBisati
+- **My Gmail** - himakar1801@gmail.com
+- **My GitHub** -  https://github.com/HimakarBisati
