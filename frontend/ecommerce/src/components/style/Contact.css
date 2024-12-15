@@ -1,0 +1,26 @@
+.contact-body {
+  background-color: #f8f9fa; 
+  min-height: 100vh; 
+}
+
+.contact-option {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.contact-option:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.fancy-button {
+  background-color: #007bff;
+  color: white; 
+  border-radius: 30px; 
+  padding: 10px 20px; 
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.fancy-button:hover {
+  background-color: #0056b3; 
+  transform: scale(1.05); 
+}

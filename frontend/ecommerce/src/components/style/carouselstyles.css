@@ -1,0 +1,30 @@
+
+.carousel .carousel-item img {
+  object-fit: cover;
+  height: 60vh; 
+}
+
+@media (min-width: 992px) {
+  .carousel .carousel-item img {
+    height: 80vh;
+  }
+}
+
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5); 
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.carousel-caption h5 {
+  color: #f8f9fa;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.carousel-caption p {
+  color: #f8f9fa;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
